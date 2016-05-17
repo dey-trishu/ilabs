@@ -1,0 +1,6 @@
+DB_OWNER=log2db
+DB_USER=satrey
+username=satrey
+password=satrey
+dbtype=dblog
+failover=no
